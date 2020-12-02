@@ -1,0 +1,3 @@
+[submodule "master-gatsby"]
+	path = master-gatsby
+	url = https://github.com/wesbos/master-gatsby.git
