@@ -20,7 +20,7 @@ const MenuItemStyles = styled.div`
   }
 
   button + button {
-    margin-left: 1 rem;
+    margin-left: 1rem;
   }
 
   .remove {
